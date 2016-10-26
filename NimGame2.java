@@ -1,9 +1,7 @@
 /**
  * Brian Donovan
- * 915106202
- * 10/14/16
- * 1068-001 Lab 7
- * This program will allow 2 users to play the Nim game
+ * Brian1006@comcast.net
+ * This program will allow 2 users to play the mathematical game Nim 
  */
 package nimgame2;
 
